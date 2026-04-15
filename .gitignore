@@ -67,3 +67,5 @@ dkms.conf
 bin/*
 !bin/.keep
 !bin/fail
+config.bat
+node_modules
